@@ -1,0 +1,208 @@
+body {
+  background-color: rgb(5, 5, 5);
+  color: white;
+  font-family: 'Open Sans Condensed', sans-serif;
+
+
+  <link href="https://fonts.googleapis.com/css?family=Alfa+Slab+One" rel="stylesheet">
+
+}
+
+header {
+  background-image: url(https://filterforge.com/filters/8892-diffuse.jpg);
+
+  height: 375px;
+}
+
+section
+nav{
+  text-align: center;
+  display: inline-block;
+  width: 100%;
+  box-sizing: 100px;
+}
+
+
+
+
+h1 {
+/*  color: rgba(206, 214, 226);   */
+  color: rgb(255, 160, 20);
+  font-size: 125px;
+  margin: 0;
+  padding-left: 125px;
+  font-family: 'Alfa Slab One', cursive;
+  width: 50%;
+}
+h5 {
+/*  color: rgba(206, 214, 226);   */
+  color: rgb(15, 196, 5);
+  font-size: 125px;
+  margin: 0;
+  padding-left: 10;
+  font-family: 'Alfa Slab One', cursive;
+  width: 60%;
+}
+
+nav {
+  height: 50px;
+  background-color: rgb(22, 14, 0);
+
+}
+
+aside {
+  width: 32.6%;
+  border: 100px;
+  display: block;
+  float: left;
+  padding: .33%;
+  font-size: 75px;
+  /*box-sizing: border-box;*/
+
+
+
+
+}
+section {
+  width: 100%;
+  display: block;
+  float: left;
+}
+
+aside class="small" {
+  display: inline-block;
+  text-align: left;
+  font-size: 75px
+}
+aside class="medium" {
+  display: inline-block;
+  text-align: center;
+  font-size: 200px
+  text-align
+}
+aside class="large" {
+  display: inline-block;
+  text-align: right;
+
+}
+
+
+aside class="1"{
+
+}
+
+  a {
+    color: white;
+    font-size: 14px;
+    text-decoration: none;
+    line-height: 50px;
+
+    width: 150px;
+    display: inline-block;
+    text-align: center;
+
+    transition: all 0.5s linear;
+  }
+
+  a:hover {
+    background-color: white;
+    color: rgb(22, 14, 0);
+  }
+
+
+}
+
+
+aside class="2"{
+
+  background-image: url(http://poppin.imgix.net/products/swatch/swatch_dark_gray.jpg?w=600&h=600);
+  height: 200px;
+  width: 300px;
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+
+}
+
+#wrapper {
+  margin-left: auto;
+  margin-right: auto;
+width: 1500px;
+}
+
+a:small {
+  font-size: 75px;
+}
+
+a:medium {
+  font-size: 75px;
+}
+
+a.large {
+  font-size: 75px;
+}
+
+
+a {
+  color: white;
+  font-size: 14px;
+  text-decoration: none;
+  line-height: 50px;
+
+  width: 150px;
+  display: inline-block;
+  text-align: center;
+
+  transition: all 0.5s linear;
+}
+
+a:hover {
+  background-color: white;
+  color: rgb(22, 14, 0);
+}
+
+
+
+.logo img {
+  padding-left: 600px;
+  padding-top: 80px;
+  width: 450px;
+  height: 253.5px;
+}
+
+  /*
+  position: absolute;
+  top: 100px;
+  right: 115px;
+  width: 750px
+  width: 50%;
+  scroll-behavior: auto;
+  /*
+  height: 450px;
+  width: 750px;
+  */
+
+  .logo h1 {
+    position: absolute;
+    top: 40px;
+    left: -100px;
+}
+
+  .logo h5 {
+    position: absolute;
+    top: 150px;
+    left: 95px;
+  }
+
+
+
+
+
+}
+
+
+
+
+
+
+/*  */
